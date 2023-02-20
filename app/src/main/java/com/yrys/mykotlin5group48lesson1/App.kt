@@ -6,4 +6,5 @@ import dagger.hilt.android.HiltAndroidApp
 @HiltAndroidApp
 class App : Application() {
     val a = "hello 40000000!"
+    val b = "hello lalalal!"
 }
